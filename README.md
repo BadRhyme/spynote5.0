@@ -1,2 +1,4 @@
 # spynote5.0
-SpyNote Ver. 5.0
+Spynote is an android, payload/rat panel.
+*Presented by badrhyme
+
